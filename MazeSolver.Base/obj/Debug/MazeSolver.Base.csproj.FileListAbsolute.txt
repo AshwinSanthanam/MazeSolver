@@ -1,0 +1,17 @@
+c:\users\ashwin\source\repos\MazeSolver\MazeSolver.Base\bin\Debug\MazeSolver.Base.dll
+c:\users\ashwin\source\repos\MazeSolver\MazeSolver.Base\bin\Debug\MazeSolver.Base.pdb
+c:\users\ashwin\source\repos\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.csprojAssemblyReference.cache
+c:\users\ashwin\source\repos\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.csproj.CoreCompileInputs.cache
+c:\users\ashwin\source\repos\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.dll
+c:\users\ashwin\source\repos\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.pdb
+D:\Code\MazeSolver\MazeSolver.Base\bin\Debug\MazeSolver.Base.dll
+D:\Code\MazeSolver\MazeSolver.Base\bin\Debug\MazeSolver.Base.pdb
+D:\Code\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.csprojAssemblyReference.cache
+D:\Code\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.dll
+D:\Code\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.pdb
+D:\Projects\MazeSolver\MazeSolver.Base\bin\Debug\MazeSolver.Base.dll
+D:\Projects\MazeSolver\MazeSolver.Base\bin\Debug\MazeSolver.Base.pdb
+D:\Projects\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.csprojAssemblyReference.cache
+D:\Projects\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.csproj.CoreCompileInputs.cache
+D:\Projects\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.dll
+D:\Projects\MazeSolver\MazeSolver.Base\obj\Debug\MazeSolver.Base.pdb
